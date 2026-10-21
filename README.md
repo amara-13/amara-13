@@ -1,16 +1,36 @@
-## Hi there 👋
+**Hi, I'm Amara Batool 👋**
 
-<!--
-**amara-13/amara-13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Associate Software Engineer | Computer Science Graduate**
 
-Here are some ideas to get you started:
+I'm a Computer Science graduate with professional experience in web application development. I enjoy solving problems, building useful software, and continuously improving my technical skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My professional experience includes working with PHP, Laravel, Vue.js, MySQL, and REST APIs. I'm currently strengthening my JavaScript skills and  learning the MERN stack to expand my full-stack development capabilities..
+
+👩‍💻** About Me**
+
+ Computer Science graduate from Air University
+
+ Professional experience in software development
+
+ Currently learning the MERN stack: MongoDB, Express.js, React, and Node.js
+
+ Interested in backend development, APIs, and full-stack applications
+
+
+**Languages:** PHP, JavaScript, SQL, HTML, CSS
+
+**Frameworks & Libraries**: Laravel, Vue.js, Bootstrap, Tailwind CSS, AJAX, jQuery
+
+**Databases**: MySQL
+
+**Tools:** Git, GitHub, Postman, VS Code
+
+**Currently Learning:** React, Node.js, Express.js, MongoDB
+
+ **Projects**
+Explore my repositories to see my software development work, implemented features, and ongoing learning projects.
+
+**Connect With Me**
+**LinkedIn**: Amara Batool
+**GitHub:** amara-13
+**⭐ Thanks for visiting my profile!**
