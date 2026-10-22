@@ -6,7 +6,7 @@ I'm a Computer Science graduate with professional experience in web application 
 
 My professional experience includes working with PHP, Laravel, Vue.js, MySQL, and REST APIs. I'm currently strengthening my JavaScript skills and  learning the MERN stack to expand my full-stack development capabilities..
 
-👩‍💻** About Me**
+👩‍💻 About Me
 
  Computer Science graduate from Air University
 
